@@ -1,0 +1,2090 @@
+[
+  {
+    "id": 1,
+    "weight": 1,
+    "name": "أذكار الاستيقاظ من النوم",
+    "nameSearch": "اذكار الاستيقاظ من النوم",
+    "favorite": true,
+    "notification": {
+      "id": 1
+    },
+    "supplications": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "weight": 2,
+    "name": "دعاء لبس الثوب",
+    "nameSearch": "دعاء لبس الثوب",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "weight": 3,
+    "name": "دعاء لبس الثوب الجديد",
+    "nameSearch": "دعاء لبس الثوب الجديد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "weight": 4,
+    "name": "الدعاء لمن لبس ثوبا جديدا",
+    "nameSearch": "الدعاء لمن لبس ثوبا جديدا",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "weight": 5,
+    "name": "ما يقول إذا وضع ثوبه",
+    "nameSearch": "ما يقول اذا وضع ثوبه",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "weight": 6,
+    "name": "دعاء دخول الخلاء",
+    "nameSearch": "دعاء دخول الخلاء",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "weight": 7,
+    "name": "دعاء الخروج من الخلاء",
+    "nameSearch": "دعاء الخروج من الخلاء",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "weight": 8,
+    "name": "الذكر قبل الوضوء",
+    "nameSearch": "الذكر قبل الوضوء",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "weight": 9,
+    "name": "الذكر بعد الفراغ من الوضوء",
+    "nameSearch": "الذكر بعد الفراغ من الوضوء",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "weight": 10,
+    "name": "الذكر عند الخروج من المنزل",
+    "nameSearch": "الذكر عند الخروج من المنزل",
+    "favorite": true,
+    "supplications": [
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "weight": 11,
+    "name": "الذكر عند دخول المنزل",
+    "nameSearch": "الذكر عند دخول المنزل",
+    "favorite": true,
+    "supplications": [
+      {
+        "id": 18
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "weight": 12,
+    "name": "دعاء الذهاب إلى المسجد",
+    "nameSearch": "دعاء الذهاب الي المسجد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 19
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "weight": 13,
+    "name": "دعاء دخول المسجد",
+    "nameSearch": "دعاء دخول المسجد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 20
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "weight": 14,
+    "name": "دعاء الخروج من المسجد",
+    "nameSearch": "دعاء الخروج من المسجد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 21
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "weight": 15,
+    "name": "أذكار الأذان",
+    "nameSearch": "اذكار الاذان",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "weight": 16,
+    "name": "دعاء الاستفتاح",
+    "nameSearch": "دعاء الاستفتاح",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "weight": 17,
+    "name": "دعاء الركوع",
+    "nameSearch": "دعاء الركوع",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 33
+      },
+      {
+        "id": 34
+      },
+      {
+        "id": 35
+      },
+      {
+        "id": 36
+      },
+      {
+        "id": 37
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "weight": 18,
+    "name": "دعاء الرفع من الركوع",
+    "nameSearch": "دعاء الرفع من الركوع",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 38
+      },
+      {
+        "id": 39
+      },
+      {
+        "id": 40
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "weight": 19,
+    "name": "دعاء السجود",
+    "nameSearch": "دعاء السجود",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 41
+      },
+      {
+        "id": 42
+      },
+      {
+        "id": 43
+      },
+      {
+        "id": 44
+      },
+      {
+        "id": 45
+      },
+      {
+        "id": 46
+      },
+      {
+        "id": 47
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "weight": 20,
+    "name": "دعاء الجلسة بين السجدتين",
+    "nameSearch": "دعاء الجلسة بين السجدتين",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 48
+      },
+      {
+        "id": 49
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "weight": 21,
+    "name": "دعاء سجود التلاوة",
+    "nameSearch": "دعاء سجود التلاوة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 50
+      },
+      {
+        "id": 51
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "weight": 22,
+    "name": "التشهد",
+    "nameSearch": "التشهد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 52
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "weight": 23,
+    "name": "الصلاة على النبي بعد التشهد",
+    "nameSearch": "الصلاة علي النبي بعد التشهد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 53
+      },
+      {
+        "id": 54
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "weight": 24,
+    "name": "الدعاء بعد التشهد الأخير قبل السلام",
+    "nameSearch": "الدعاء بعد التشهد الاخير قبل السلام",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 55
+      },
+      {
+        "id": 56
+      },
+      {
+        "id": 57
+      },
+      {
+        "id": 58
+      },
+      {
+        "id": 59
+      },
+      {
+        "id": 60
+      },
+      {
+        "id": 61
+      },
+      {
+        "id": 62
+      },
+      {
+        "id": 63
+      },
+      {
+        "id": 64
+      },
+      {
+        "id": 65
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "weight": 25,
+    "name": "الأذكار بعد السلام من الصلاة",
+    "nameSearch": "الاذكار بعد السلام من الصلاة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 66
+      },
+      {
+        "id": 67
+      },
+      {
+        "id": 68
+      },
+      {
+        "id": 69
+      },
+      {
+        "id": 70
+      },
+      {
+        "id": 71
+      },
+      {
+        "id": 72
+      },
+      {
+        "id": 73
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "weight": 26,
+    "name": "دعاء صلاة الاستخارة",
+    "nameSearch": "دعاء صلاة الاستخارة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 74
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "weight": 27,
+    "name": "أذكار الصباح",
+    "nameSearch": "اذكار الصباح",
+    "favorite": true,
+    "notification": {
+      "id": 27
+    },
+    "supplications": [
+      {
+        "id": 75
+      },
+      {
+        "id": 76
+      },
+      {
+        "id": 77
+      },
+      {
+        "id": 78
+      },
+      {
+        "id": 79
+      },
+      {
+        "id": 80
+      },
+      {
+        "id": 81
+      },
+      {
+        "id": 82
+      },
+      {
+        "id": 83
+      },
+      {
+        "id": 84
+      },
+      {
+        "id": 85
+      },
+      {
+        "id": 86
+      },
+      {
+        "id": 87
+      },
+      {
+        "id": 88
+      },
+      {
+        "id": 89
+      },
+      {
+        "id": 90
+      },
+      {
+        "id": 91
+      },
+      {
+        "id": 92
+      },
+      {
+        "id": 93
+      },
+      {
+        "id": 94
+      },
+      {
+        "id": 95
+      },
+      {
+        "id": 96
+      },
+      {
+        "id": 97
+      },
+      {
+        "id": 98
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "weight": 28,
+    "name": "أذكار المساء",
+    "nameSearch": "اذكار المساء",
+    "favorite": true,
+    "notification": {
+      "id": 28
+    },
+    "supplications": [
+      {
+        "id": 99
+      },
+      {
+        "id": 100
+      },
+      {
+        "id": 101
+      },
+      {
+        "id": 102
+      },
+      {
+        "id": 103
+      },
+      {
+        "id": 104
+      },
+      {
+        "id": 105
+      },
+      {
+        "id": 106
+      },
+      {
+        "id": 107
+      },
+      {
+        "id": 108
+      },
+      {
+        "id": 109
+      },
+      {
+        "id": 110
+      },
+      {
+        "id": 111
+      },
+      {
+        "id": 112
+      },
+      {
+        "id": 113
+      },
+      {
+        "id": 114
+      },
+      {
+        "id": 115
+      },
+      {
+        "id": 116
+      },
+      {
+        "id": 117
+      },
+      {
+        "id": 118
+      },
+      {
+        "id": 119
+      },
+      {
+        "id": 120
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "weight": 29,
+    "name": "أذكار النوم",
+    "nameSearch": "اذكار النوم",
+    "favorite": true,
+    "notification": {
+      "id": 29
+    },
+    "supplications": [
+      {
+        "id": 121
+      },
+      {
+        "id": 122
+      },
+      {
+        "id": 123
+      },
+      {
+        "id": 124
+      },
+      {
+        "id": 125
+      },
+      {
+        "id": 126
+      },
+      {
+        "id": 127
+      },
+      {
+        "id": 128
+      },
+      {
+        "id": 129
+      },
+      {
+        "id": 130
+      },
+      {
+        "id": 131
+      },
+      {
+        "id": 132
+      },
+      {
+        "id": 133
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "weight": 30,
+    "name": "الدعاء إذا تقلب ليلا",
+    "nameSearch": "الدعاء اذا تقلب ليلا",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 134
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "weight": 31,
+    "name": "دعاء الفزع في النوم ومن بلي بالوحشة",
+    "nameSearch": "دعاء الفزع في النوم ومن بلي بالوحشة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 135
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "weight": 32,
+    "name": "ما يفعل من رأى الرؤيا أو الحلم",
+    "nameSearch": "ما يفعل من راي الرؤيا او الحلم",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 136
+      },
+      {
+        "id": 137
+      },
+      {
+        "id": 138
+      },
+      {
+        "id": 139
+      },
+      {
+        "id": 140
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "weight": 33,
+    "name": "دعاء قنوت الوتر",
+    "nameSearch": "دعاء قنوت الوتر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 141
+      },
+      {
+        "id": 142
+      },
+      {
+        "id": 143
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "weight": 34,
+    "name": "الذكر عقب السلام من الوتر",
+    "nameSearch": "الذكر عقب السلام من الوتر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 144
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "weight": 35,
+    "name": "دعاء الهم والحزن",
+    "nameSearch": "دعاء الهم والحزن",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 145
+      },
+      {
+        "id": 146
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "weight": 36,
+    "name": "دعاء الكرب",
+    "nameSearch": "دعاء الكرب",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 147
+      },
+      {
+        "id": 148
+      },
+      {
+        "id": 149
+      },
+      {
+        "id": 150
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "weight": 37,
+    "name": "دعاء لقاء العدو وذي السلطان",
+    "nameSearch": "دعاء لقاء العدو وذي السلطان",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 151
+      },
+      {
+        "id": 152
+      },
+      {
+        "id": 153
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "weight": 38,
+    "name": "دعاء من خاف ظلم السلطان",
+    "nameSearch": "دعاء من خاف ظلم السلطان",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 154
+      },
+      {
+        "id": 155
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "weight": 39,
+    "name": "الدعاء على العدو",
+    "nameSearch": "الدعاء علي العدو",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 156
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "weight": 40,
+    "name": "ما يقول من خاف قوما",
+    "nameSearch": "ما يقول من خاف قوما",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 157
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "weight": 41,
+    "name": "دعاء من أصابه وسوسة في الإيمان",
+    "nameSearch": "دعاء من اصابه وسوسة في الايمان",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 158
+      },
+      {
+        "id": 159
+      },
+      {
+        "id": 160
+      },
+      {
+        "id": 161
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "weight": 42,
+    "name": "دعاء قضاء الدين",
+    "nameSearch": "دعاء قضاء الدين",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 162
+      },
+      {
+        "id": 163
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "weight": 43,
+    "name": "دعاء الوسوسة في الصلاة والقراءة",
+    "nameSearch": "دعاء الوسوسة في الصلاة والقراءة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 164
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "weight": 44,
+    "name": "دعاء من استصعب عليه أمر",
+    "nameSearch": "دعاء من استصعب عليه امر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 165
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "weight": 45,
+    "name": "ما يقول ويفعل من أذنب ذنبا",
+    "nameSearch": "ما يقول ويفعل من اذنب ذنبا",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 166
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "weight": 46,
+    "name": "دعاء طرد الشيطان ووساوسه",
+    "nameSearch": "دعاء طرد الشيطان ووساوسه",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 167
+      },
+      {
+        "id": 168
+      },
+      {
+        "id": 169
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "weight": 47,
+    "name": "الدعاء حينما يقع ما لا يرضاه أو غلب على أمره",
+    "nameSearch": "الدعاء حينما يقع ما لا يرضاه او غلب علي امره",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 170
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "weight": 48,
+    "name": "تهنئة المولود له وجوابه",
+    "nameSearch": "تهنئة المولود له وجوابه",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 171
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "weight": 49,
+    "name": "ما يعوذ به الأولاد",
+    "nameSearch": "ما يعوذ به الاولاد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 172
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "weight": 50,
+    "name": "الدعاء للمريض في عيادته",
+    "nameSearch": "الدعاء للمريض في عيادته",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 173
+      },
+      {
+        "id": 174
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "weight": 51,
+    "name": "فضل عيادة المريض",
+    "nameSearch": "فضل عيادة المريض",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 175
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "weight": 52,
+    "name": "دعاء المريض الذي يئس من حياته",
+    "nameSearch": "دعاء المريض الذي يئس من حياته",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 176
+      },
+      {
+        "id": 177
+      },
+      {
+        "id": 178
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "weight": 53,
+    "name": "تلقين المحتضر",
+    "nameSearch": "تلقين المحتضر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 179
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "weight": 54,
+    "name": "دعاء من أصيب بمصيبة",
+    "nameSearch": "دعاء من اصيب بمصيبة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 180
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "weight": 55,
+    "name": "الدعاء عند إغماض الميت",
+    "nameSearch": "الدعاء عند اغماض الميت",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 181
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "weight": 56,
+    "name": "الدعاء للميت في الصلاة عليه",
+    "nameSearch": "الدعاء للميت في الصلاة عليه",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 182
+      },
+      {
+        "id": 183
+      },
+      {
+        "id": 184
+      },
+      {
+        "id": 185
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "weight": 57,
+    "name": "الدعاء للفرط في الصلاة عليه",
+    "nameSearch": "الدعاء للفرط في الصلاة عليه",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 186
+      },
+      {
+        "id": 187
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "weight": 58,
+    "name": "دعاء التعزية",
+    "nameSearch": "دعاء التعزية",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 188
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "weight": 59,
+    "name": "الدعاء عند إدخال الميت القبر",
+    "nameSearch": "الدعاء عند ادخال الميت القبر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 189
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "weight": 60,
+    "name": "الدعاء بعد دفن الميت",
+    "nameSearch": "الدعاء بعد دفن الميت",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 190
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "weight": 61,
+    "name": "دعاء زيارة القبور",
+    "nameSearch": "دعاء زيارة القبور",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 191
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "weight": 62,
+    "name": "دعاء الريح",
+    "nameSearch": "دعاء الريح",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 192
+      },
+      {
+        "id": 193
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "weight": 63,
+    "name": "دعاء الرعد",
+    "nameSearch": "دعاء الرعد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 194
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "weight": 64,
+    "name": "من أدعية الاستسقاء",
+    "nameSearch": "من ادعية الاستسقاء",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 195
+      },
+      {
+        "id": 196
+      },
+      {
+        "id": 197
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "weight": 65,
+    "name": "الدعاء إذا رأى المطر",
+    "nameSearch": "الدعاء اذا راي المطر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 198
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "weight": 66,
+    "name": "الذكر بعد نزول المطر",
+    "nameSearch": "الذكر بعد نزول المطر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 199
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "weight": 67,
+    "name": "من أدعية الاستصحاء",
+    "nameSearch": "من ادعية الاستصحاء",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 200
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "weight": 68,
+    "name": "دعاء رؤية الهلال",
+    "nameSearch": "دعاء رؤية الهلال",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 201
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "weight": 69,
+    "name": "الدعاء عند إفطار الصائم",
+    "nameSearch": "الدعاء عند افطار الصائم",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 202
+      },
+      {
+        "id": 203
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "weight": 70,
+    "name": "الدعاء قبل الطعام",
+    "nameSearch": "الدعاء قبل الطعام",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 204
+      },
+      {
+        "id": 205
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "weight": 71,
+    "name": "الدعاء عند الفراغ من الطعام",
+    "nameSearch": "الدعاء عند الفراغ من الطعام",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 206
+      },
+      {
+        "id": 207
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "weight": 72,
+    "name": "دعاء الضيف لصاحب الطعام",
+    "nameSearch": "دعاء الضيف لصاحب الطعام",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 208
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "weight": 73,
+    "name": "التعريض بالدعاء لطلب الطعام أو الشراب",
+    "nameSearch": "التعريض بالدعاء لطلب الطعام او الشراب",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 209
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "weight": 74,
+    "name": "الدعاء إذا أفطر عند أهل بيت",
+    "nameSearch": "الدعاء اذا افطر عند اهل بيت",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 210
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "weight": 75,
+    "name": "دعاء الصائم إذا حضر الطعام ولم يفطر",
+    "nameSearch": "دعاء الصائم اذا حضر الطعام ولم يفطر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 211
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "weight": 76,
+    "name": "ما يقول الصائم إذا سابه أحد",
+    "nameSearch": "ما يقول الصائم اذا سابه احد",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 212
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "weight": 77,
+    "name": "الدعاء عند رؤية باكورة الثمر",
+    "nameSearch": "الدعاء عند رؤية باكورة الثمر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 213
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "weight": 78,
+    "name": "دعاء العطاس",
+    "nameSearch": "دعاء العطاس",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 214
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "weight": 79,
+    "name": "ما يقال للكافر إذا عطس فحمد الله",
+    "nameSearch": "ما يقال للكافر اذا عطس فحمد الله",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 215
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "weight": 80,
+    "name": "الدعاء للمتزوج",
+    "nameSearch": "الدعاء للمتزوج",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 216
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "weight": 81,
+    "name": "دعاء المتزوج وشراء الدابة",
+    "nameSearch": "دعاء المتزوج وشراء الدابة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 217
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "weight": 82,
+    "name": "الدعاء قبل إتيان الزوجة",
+    "nameSearch": "الدعاء قبل اتيان الزوجة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 218
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "weight": 83,
+    "name": "دعاء الغضب",
+    "nameSearch": "دعاء الغضب",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 219
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "weight": 84,
+    "name": "دعاء من رأى مبتلى",
+    "nameSearch": "دعاء من راي مبتلي",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 220
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "weight": 85,
+    "name": "ما يقال في المجلس",
+    "nameSearch": "ما يقال في المجلس",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 221
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "weight": 86,
+    "name": "كفارة المجلس",
+    "nameSearch": "كفارة المجلس",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 222
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "weight": 87,
+    "name": "الدعاء لمن قال غفر الله لك",
+    "nameSearch": "الدعاء لمن قال غفر الله لك",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 223
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "weight": 88,
+    "name": "الدعاء لمن صنع إليك معروفا",
+    "nameSearch": "الدعاء لمن صنع اليك معروفا",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 224
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "weight": 89,
+    "name": "ما يعصم الله به من الدجال",
+    "nameSearch": "ما يعصم الله به من الدجال",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 225
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "weight": 90,
+    "name": "الدعاء لمن قال إني أحبك في الله",
+    "nameSearch": "الدعاء لمن قال اني احبك في الله",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 226
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "weight": 91,
+    "name": "الدعاء لمن عرض عليك ماله",
+    "nameSearch": "الدعاء لمن عرض عليك ماله",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 227
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "weight": 92,
+    "name": "الدعاء لمن أقرض عند القضاء",
+    "nameSearch": "الدعاء لمن اقرض عند القضاء",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 228
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "weight": 93,
+    "name": "دعاء الخوف من الشرك",
+    "nameSearch": "دعاء الخوف من الشرك",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 229
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "weight": 94,
+    "name": "الدعاء لمن قال بارك الله فيك",
+    "nameSearch": "الدعاء لمن قال بارك الله فيك",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 230
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "weight": 95,
+    "name": "دعاء كراهية الطيرة",
+    "nameSearch": "دعاء كراهية الطيرة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 231
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "weight": 96,
+    "name": "دعاء الركوب",
+    "nameSearch": "دعاء الركوب",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 232
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "weight": 97,
+    "name": "دعاء السفر",
+    "nameSearch": "دعاء السفر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 233
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "weight": 98,
+    "name": "دعاء دخول القرية أو البلدة",
+    "nameSearch": "دعاء دخول القرية او البلدة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 234
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "weight": 99,
+    "name": "دعاء دخول السوق",
+    "nameSearch": "دعاء دخول السوق",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 235
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "weight": 100,
+    "name": "الدعاء إذا تعس المركوب",
+    "nameSearch": "الدعاء اذا تعس المركوب",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 236
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "weight": 101,
+    "name": "دعاء المسافر للمقيم",
+    "nameSearch": "دعاء المسافر للمقيم",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 237
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "weight": 102,
+    "name": "دعاء المقيم للمسافر",
+    "nameSearch": "دعاء المقيم للمسافر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 238
+      },
+      {
+        "id": 239
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "weight": 103,
+    "name": "التكبير والتسبيح في سير السفر",
+    "nameSearch": "التكبير والتسبيح في سير السفر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 240
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "weight": 104,
+    "name": "دعاء المسافر إذا أسحر",
+    "nameSearch": "دعاء المسافر اذا اسحر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 241
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "weight": 105,
+    "name": "الدعاء إذا نزل منزلا في سفر أو غيره",
+    "nameSearch": "الدعاء اذا نزل منزلا في سفر او غيره",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 242
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "weight": 106,
+    "name": "ذكر الرجوع من السفر",
+    "nameSearch": "ذكر الرجوع من السفر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 243
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "weight": 107,
+    "name": "ما يقول من أتاه أمر يسره أو يكرهه",
+    "nameSearch": "ما يقول من اتاه امر يسره او يكرهه",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 244
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "weight": 108,
+    "name": "فضل الصلاة على النبي",
+    "nameSearch": "فضل الصلاة علي النبي",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 245
+      },
+      {
+        "id": 246
+      },
+      {
+        "id": 247
+      },
+      {
+        "id": 248
+      },
+      {
+        "id": 249
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "weight": 109,
+    "name": "إفشاء السلام",
+    "nameSearch": "افشاء السلام",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 250
+      },
+      {
+        "id": 251
+      },
+      {
+        "id": 252
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "weight": 110,
+    "name": "كيف يرد السلام على الكافر إذا سلم",
+    "nameSearch": "كيف يرد السلام علي الكافر اذا سلم",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 253
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "weight": 111,
+    "name": "الدعاء عند سماع صياح الديك ونهيق الحمار",
+    "nameSearch": "الدعاء عند سماع صياح الديك ونهيق الحمار",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 254
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "weight": 112,
+    "name": "الدعاء عند سماع نباح الكلاب بالليل",
+    "nameSearch": "الدعاء عند سماع نباح الكلاب بالليل",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 255
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "weight": 113,
+    "name": "الدعاء لمن سببته",
+    "nameSearch": "الدعاء لمن سببته",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 256
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "weight": 114,
+    "name": "ما يقول المسلم إذا مدح المسلم",
+    "nameSearch": "ما يقول المسلم اذا مدح المسلم",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 257
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "weight": 115,
+    "name": "ما يقول المسلم إذا زكي",
+    "nameSearch": "ما يقول المسلم اذا زكي",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 258
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "weight": 116,
+    "name": "كيف يلبي المحرم في الحج أو العمرة",
+    "nameSearch": "كيف يلبي المحرم في الحج او العمرة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 259
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "weight": 117,
+    "name": "التكبير إذا أتى الحجر الأسود",
+    "nameSearch": "التكبير اذا اتي الحجر الاسود",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 260
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "weight": 118,
+    "name": "الدعاء بين الركن اليماني والحجر الأسود",
+    "nameSearch": "الدعاء بين الركن اليماني والحجر الاسود",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 261
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "weight": 119,
+    "name": "دعاء الوقوف على الصفا والمروة",
+    "nameSearch": "دعاء الوقوف علي الصفا والمروة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 262
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "weight": 120,
+    "name": "الدعاء يوم عرفة",
+    "nameSearch": "الدعاء يوم عرفة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 263
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "weight": 121,
+    "name": "الذكر عند المشعر الحرام",
+    "nameSearch": "الذكر عند المشعر الحرام",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 264
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "weight": 122,
+    "name": "التكبير عند رمي الجمار مع كل حصاة",
+    "nameSearch": "التكبير عند رمي الجمار مع كل حصاة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 265
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "weight": 123,
+    "name": "ما يقول عند التعجب والأمر السار",
+    "nameSearch": "ما يقول عند التعجب والامر السار",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 266
+      },
+      {
+        "id": 267
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "weight": 124,
+    "name": "ما يفعل من أتاه أمر يسره",
+    "nameSearch": "ما يفعل من اتاه امر يسره",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 268
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "weight": 125,
+    "name": "ما يفعل ويقول من أحس وجعا في جسده",
+    "nameSearch": "ما يفعل ويقول من احس وجعا في جسده",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 269
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "weight": 126,
+    "name": "دعاء من خشي أن يصيب شيئا بعينه",
+    "nameSearch": "دعاء من خشي ان يصيب شيئا بعينه",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 270
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "weight": 127,
+    "name": "ما يقال عند الفزع",
+    "nameSearch": "ما يقال عند الفزع",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 271
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "weight": 128,
+    "name": "ما يقول عند الذبح أو النحر",
+    "nameSearch": "ما يقول عند الذبح او النحر",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 272
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "weight": 129,
+    "name": "ما يقول لرد كيد مردة الشياطين",
+    "nameSearch": "ما يقول لرد كيد مردة الشياطين",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 273
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "weight": 130,
+    "name": "الاستغفار والتوبة",
+    "nameSearch": "الاستغفار والتوبة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 274
+      },
+      {
+        "id": 275
+      },
+      {
+        "id": 276
+      },
+      {
+        "id": 277
+      },
+      {
+        "id": 278
+      },
+      {
+        "id": 279
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "weight": 131,
+    "name": "فضل التسبيح والتحميد، والتهليل، والتكبير",
+    "nameSearch": "فضل التسبيح والتحميد، والتهليل، والتكبير",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 280
+      },
+      {
+        "id": 281
+      },
+      {
+        "id": 282
+      },
+      {
+        "id": 283
+      },
+      {
+        "id": 284
+      },
+      {
+        "id": 285
+      },
+      {
+        "id": 286
+      },
+      {
+        "id": 287
+      },
+      {
+        "id": 288
+      },
+      {
+        "id": 289
+      },
+      {
+        "id": 290
+      },
+      {
+        "id": 291
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "weight": 132,
+    "name": "كيف كان النبي يسبح؟",
+    "nameSearch": "كيف كان النبي يسبح؟",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 292
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "weight": 133,
+    "name": "من أنواع الخير والاداب الجامعة",
+    "nameSearch": "من انواع الخير والاداب الجامعة",
+    "favorite": false,
+    "supplications": [
+      {
+        "id": 293
+      }
+    ]
+  }
+]

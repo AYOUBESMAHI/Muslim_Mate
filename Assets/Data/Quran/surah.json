@@ -1,0 +1,2429 @@
+[
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 7,
+        "title": "Al-Fatiha",
+    "englishNameTranslation": "The Opening",
+
+        "titleAr":"الفاتحة",
+        "index": 1,
+        "pages": 1,
+        "juz": [
+            {
+                "index": 1,
+                "verse": {
+                    "start": "1",
+                    "end": "7"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 286,
+        "title": "Al-Baqara",
+        "englishNameTranslation": "The Cow",
+
+        "titleAr":"البقرة",
+        "index": 2,
+        "pages": 2,
+        "juz": [
+            {
+                "index": 1,
+                "verse": {
+                    "start": "1",
+                    "end": "141"
+                }
+            },
+            {
+                "index": 2,
+                "verse": {
+                    "start": "142",
+                    "end": "252"
+                }
+            },
+            {
+                "index": 3,
+                "verse": {
+                    "start": "253",
+                    "end": "286"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 200,
+        "title": "Aal-Imran",
+        "titleAr":"آل عمران",
+        "englishNameTranslation": "The Family of Imraan",
+
+        "index": 3,
+        "pages": 45,
+        "juz": [
+            {
+                "index": 3,
+                "verse": {
+                    "start": "1",
+                    "end": "92"
+                }
+            },
+            {
+                "index": 4,
+                "verse": {
+                    "start": "93",
+                    "end": "200"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 176,
+        "title": "An-Nisaa'",
+        "titleAr":"النساء",
+    "englishNameTranslation": "The Women",
+
+        "index": 4,
+        "pages": 69,
+        "juz": [
+            {
+                "index": 4,
+                "verse": {
+                    "start": "1",
+                    "end": "23"
+                }
+            },
+            {
+                "index": 5,
+                "verse": {
+                    "start": "24",
+                    "end": "147"
+                }
+            },
+            {
+                "index": 6,
+                "verse": {
+                    "start": "148",
+                    "end": "176"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 120,
+        "title": "Al-Ma'ida",
+        "titleAr":"المائدة",
+    "englishNameTranslation": "The Table",
+
+        "index": 5,
+        "pages": 95,
+        "juz": [
+            {
+                "index": 6,
+                "verse": {
+                    "start": "1",
+                    "end": "81"
+                }
+            },
+            {
+                "index": 7,
+                "verse": {
+                    "start": "82",
+                    "end": "120"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 165,
+        "title": "Al-An'am",
+        "titleAr":"الأنعام",
+    "englishNameTranslation": "The Cattle",
+
+        "index": 6,
+        "pages": 115,
+        "juz": [
+            {
+                "index": 7,
+                "verse": {
+                    "start": "1",
+                    "end": "110"
+                }
+            },
+            {
+                "index": 8,
+                "verse": {
+                    "start": "111",
+                    "end": "165"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 206,
+        "title": "Al-A'raf",
+        "titleAr":"الأعراف",
+    "englishNameTranslation": "The Heights",
+
+        "index": 7,
+        "pages": 136,
+        "juz": [
+            {
+                "index": 8,
+                "verse": {
+                    "start": "1",
+                    "end": "87"
+                }
+            },
+            {
+                "index": 9,
+                "verse": {
+                    "start": "88",
+                    "end": "206"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 75,
+        "title": "Al-Anfal",
+        "titleAr":"الأنفال",
+    "englishNameTranslation": "The Spoils of War",
+
+        "index": 8,
+        "pages": 160,
+        "juz": [
+            {
+                "index": 9,
+                "verse": {
+                    "start": "1",
+                    "end": "40"
+                }
+            },
+            {
+                "index": 10,
+                "verse": {
+                    "start": "41",
+                    "end": "75"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 129,
+        "title": "Al-Tawba",
+        "titleAr":"التوبة",
+    "englishNameTranslation": "The Repentance",
+
+        "index": 9,
+        "pages": 169,
+        "juz": [
+            {
+                "index": 10,
+                "verse": {
+                    "start": "1",
+                    "end": "92"
+                }
+            },
+            {
+                "index": 11,
+                "verse": {
+                    "start": "93",
+                    "end": "129"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 109,
+        "title": "Yunus",
+        "titleAr":"يونس",
+    "englishNameTranslation": "Jonas",
+
+        "index": 10,
+        "pages": 187,
+        "juz": [
+            {
+                "index": 11,
+                "verse": {
+                    "start": "1",
+                    "end": "109"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 123,
+        "title": "Hud",
+        "titleAr":"هود",
+    "englishNameTranslation": "Hud",
+
+        "index": 11,
+        "pages": 199,
+        "juz": [
+            {
+                "index": 11,
+                "verse": {
+                    "start": "1",
+                    "end": "5"
+                }
+            },
+            {
+                "index": 12,
+                "verse": {
+                    "start": "6",
+                    "end": "123"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 111,
+        "title": "Yusuf",
+        "titleAr":"يوسف",
+    "englishNameTranslation": "Joseph",
+
+        "index": 12,
+        "pages": 212,
+        "juz": [
+            {
+                "index": 12,
+                "verse": {
+                    "start": "1",
+                    "end": "52"
+                }
+            },
+            {
+                "index": 13,
+                "verse": {
+                    "start": "53",
+                    "end": "111"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 43,
+        "title": "Ar-Ra'd",
+        "titleAr":"الرعد",
+    "englishNameTranslation": "The Thunder",
+
+        "index": 13,
+        "pages": 225,
+        "juz": [
+            {
+                "index": 13,
+                "verse": {
+                    "start": "1",
+                    "end": "43"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 52,
+        "title": "Ibrahim",
+        "titleAr":"إبراهيم",
+    "englishNameTranslation": "Abraham",
+
+        "index": 14,
+        "pages": 231,
+        "juz": [
+            {
+                "index": 13,
+                "verse": {
+                    "start": "1",
+                    "end": "52"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 99,
+        "title": "Al-Hijr",
+        "titleAr":"الحجر",
+    "englishNameTranslation": "The Rock",
+
+        "index": 15,
+        "pages": 237,
+        "juz": [
+            {
+                "index": 14,
+                "verse": {
+                    "start": "1",
+                    "end": "99"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 128,
+        "title": "An-Nahl",
+        "titleAr":"النحل",
+    "englishNameTranslation": "The Bee",
+
+        "index": 16,
+        "pages": 242,
+        "juz": [
+            {
+                "index": 14,
+                "verse": {
+                    "start": "1",
+                    "end": "128"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 111,
+        "title": "Al-Israa",
+        "titleAr":"الإسراء",
+    "englishNameTranslation": "The Night Journey",
+
+        "index": 17,
+        "pages": 255,
+        "juz": [
+            {
+                "index": 15,
+                "verse": {
+                    "start": "1",
+                    "end": "111"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 110,
+        "title": "Al-Kahf",
+        "titleAr":"الكهف",
+    "englishNameTranslation": "The Cave",
+
+        "index": 18,
+        "pages": 266,
+        "juz": [
+            {
+                "index": 15,
+                "verse": {
+                    "start": "1",
+                    "end": "74"
+                }
+            },
+            {
+                "index": 16,
+                "verse": {
+                    "start": "75",
+                    "end": "110"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 98,
+        "title": "Maryam",
+        "titleAr":"مريم",
+    "englishNameTranslation": "Mary",
+
+        "index": 19,
+        "pages": 277,
+        "juz": [
+            {
+                "index": 16,
+                "verse": {
+                    "start": "1",
+                    "end": "98"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 135,
+        "title": "Ta-Ha",
+        "titleAr":"طه",
+    "englishNameTranslation": "Taa-Haa",
+
+        "index": 20,
+        "pages": 284,
+        "juz": [
+            {
+                "index": 16,
+                "verse": {
+                    "start": "1",
+                    "end": "135"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 112,
+        "title": "Al-Anbiya",
+        "titleAr":"الأنبياء",
+    "englishNameTranslation": "The Prophets",
+
+        "index": 21,
+        "pages": 294,
+        "juz": [
+            {
+                "index": 17,
+                "verse": {
+                    "start": "1",
+                    "end": "112"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 78,
+        "title": "Al-Hajj",
+        "titleAr":"الحج",
+    "englishNameTranslation": "The Pilgrimage",
+
+        "index": 22,
+        "pages": 302,
+        "juz": [
+            {
+                "index": 17,
+                "verse": {
+                    "start": "1",
+                    "end": "78"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 118,
+        "title": "Al-Muminun",
+        "titleAr":"المؤمنون",
+        "englishNameTranslation": "The Believers",
+
+        "index": 23,
+        "pages": 311,
+        "juz": [
+            {
+                "index": 18,
+                "verse": {
+                    "start": "1",
+                    "end": "118"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 64,
+        "title": "An-Nur",
+        "titleAr":"النور",
+        "englishNameTranslation": "The Light",
+
+        "index": 24,
+        "pages": 319,
+        "juz": [
+            {
+                "index": 18,
+                "verse": {
+                    "start": "1",
+                    "end": "64"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 77,
+        "title": "Al-Furqan",
+        "titleAr":"الفرقان",
+    "englishNameTranslation": "The Criterion",
+
+        "index": 25,
+        "pages": 329,
+        "juz": [
+            {
+                "index": 18,
+                "verse": {
+                    "start": "1",
+                    "end": "20"
+                }
+            },
+            {
+                "index": 19,
+                "verse": {
+                    "start": "21",
+                    "end": "77"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 227,
+        "title": "Ash-Shuara",
+        "titleAr":"الشعراء",
+    "englishNameTranslation": "The Poets",
+
+        "index": 26,
+        "pages": 335,
+        "juz": [
+            {
+                "index": 19,
+                "verse": {
+                    "start": "1",
+                    "end": "227"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 93,
+        "title": "An-Naml",
+        "titleAr":"النمل",
+    "englishNameTranslation": "The Ant",
+
+        "index": 27,
+        "pages": 345,
+        "juz": [
+            {
+                "index": 19,
+                "verse": {
+                    "start": "1",
+                    "end": "55"
+                }
+            },
+            {
+                "index": 20,
+                "verse": {
+                    "start": "56",
+                    "end": "93"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 88,
+        "title": "Al-Qasas",
+        "titleAr":"القصص",
+    "englishNameTranslation": "The Stories",
+
+        "index": 28,
+        "pages": 354,
+        "juz": [
+            {
+                "index": 20,
+                "verse": {
+                    "start": "1",
+                    "end": "88"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 69,
+        "title": "Al-Ankabut",
+        "titleAr":"العنكبوت",
+    "englishNameTranslation": "The Spider",
+
+        "index": 29,
+        "pages": 364,
+        "juz": [
+            {
+                "index": 20,
+                "verse": {
+                    "start": "1",
+                    "end": "45"
+                }
+            },
+            {
+                "index": 21,
+                "verse": {
+                    "start": "46",
+                    "end": "69"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 60,
+        "title": "Ar-Rum",
+        "titleAr":"الروم",
+    "englishNameTranslation": "The Romans",
+
+        "index": 30,
+        "pages": 371,
+        "juz": [
+            {
+                "index": 21,
+                "verse": {
+                    "start": "1",
+                    "end": "60"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 34,
+        "title": "Luqman",
+        "titleAr":"لقمان",
+    "englishNameTranslation": "Luqman",
+
+        "index": 31,
+        "pages": 377,
+        "juz": [
+            {
+                "index": 21,
+                "verse": {
+                    "start": "1",
+                    "end": "34"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 30,
+        "title": "As-Sajdah",
+        "titleAr":"السجدة",
+    "englishNameTranslation": "The Prostration",
+
+        "index": 32,
+        "pages": 381,
+        "juz": [
+            {
+                "index": 21,
+                "verse": {
+                    "start": "1",
+                    "end": "30"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 73,
+        "title": "Al-Ahzab",
+        "titleAr":"الأحزاب",
+    "englishNameTranslation": "The Clans",
+
+        "index": 33,
+        "pages": 383,
+        "juz": [
+            {
+                "index": 21,
+                "verse": {
+                    "start": "1",
+                    "end": "30"
+                }
+            },
+            {
+                "index": 22,
+                "verse": {
+                    "start": "31",
+                    "end": "73"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 54,
+        "title": "Saba",
+        "titleAr":"سبأ",
+    "englishNameTranslation": "Sheba",
+
+        "index": 34,
+        "pages": 393,
+        "juz": [
+            {
+                "index": 22,
+                "verse": {
+                    "start": "1",
+                    "end": "54"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 45,
+        "title": "Fatir",
+        "titleAr":"فاطر",
+    "englishNameTranslation": "The Originator",
+
+        "index": 35,
+        "pages": 399,
+        "juz": [
+            {
+                "index": 22,
+                "verse": {
+                    "start": "1",
+                    "end": "45"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 83,
+        "title": "Yasin",
+        "titleAr":"يس",
+    "englishNameTranslation": "Yaseen",
+
+        "index": 36,
+        "pages": 404,
+        "juz": [
+            {
+                "index": 22,
+                "verse": {
+                    "start": "1",
+                    "end": "27"
+                }
+            },
+            {
+                "index": 23,
+                "verse": {
+                    "start": "28",
+                    "end": "83"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 182,
+        "title": "As-Saffat",
+        "titleAr":"الصافات",
+    "englishNameTranslation": "Those drawn up in Ranks",
+
+        "index": 37,
+        "pages": 410,
+        "juz": [
+            {
+                "index": 23,
+                "verse": {
+                    "start": "1",
+                    "end": "182"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 88,
+        "title": "Sad",
+        "titleAr":"ص",
+    "englishNameTranslation": "The letter Saad",
+
+        "index": 38,
+        "pages": 417,
+        "juz": [
+            {
+                "index": 23,
+                "verse": {
+                    "start": "1",
+                    "end": "88"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 75,
+        "title": "Az-Zumar",
+        "titleAr":"الزمر",
+    "englishNameTranslation": "The Groups",
+
+        "index": 39,
+        "pages": 422,
+        "juz": [
+            {
+                "index": 23,
+                "verse": {
+                    "start": "1",
+                    "end": "31"
+                }
+            },
+            {
+                "index": 24,
+                "verse": {
+                    "start": "32",
+                    "end": "75"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 85,
+        "title": "Ghafir",
+        "titleAr":"غافر",
+    "englishNameTranslation": "The Forgiver",
+
+        "index": 40,
+        "pages": 431,
+        "juz": [
+            {
+                "index": 24,
+                "verse": {
+                    "start": "1",
+                    "end": "85"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 54,
+        "title": "Fussilat",
+        "titleAr":"فصلت",
+    "englishNameTranslation": "Explained in detail",
+
+        "index": 41,
+        "pages": 439,
+        "juz": [
+            {
+                "index": 24,
+                "verse": {
+                    "start": "1",
+                    "end": "46"
+                }
+            },
+            {
+                "index": 25,
+                "verse": {
+                    "start": "47",
+                    "end": "54"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 53,
+        "title": "Ash-Shura",
+        "titleAr":"الشورى",
+    "englishNameTranslation": "Consultation",
+
+        "index": 42,
+        "pages": 445,
+        "juz": [
+            {
+                "index": 25,
+                "verse": {
+                    "start": "1",
+                    "end": "53"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 89,
+        "title": "Az-Zukhruf",
+        "titleAr":"الزخرف",
+    "englishNameTranslation": "Ornaments of gold",
+
+        "index": 43,
+        "pages": 451,
+        "juz": [
+            {
+                "index": 25,
+                "verse": {
+                    "start": "1",
+                    "end": "89"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 59,
+        "title": "Ad-Dukhan",
+        "titleAr":"الدخان",
+    "englishNameTranslation": "The Smoke",
+
+        "index": 44,
+        "pages": 457,
+        "juz": [
+            {
+                "index": 25,
+                "verse": {
+                    "start": "1",
+                    "end": "59"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 37,
+        "title": "Al-Jathiya",
+        "titleAr":"الجاثية",
+    "englishNameTranslation": "Crouching",
+
+        "index": 45,
+        "pages": 460,
+        "juz": [
+            {
+                "index": 25,
+                "verse": {
+                    "start": "1",
+                    "end": "37"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 35,
+        "title": "Al-Ahqaf",
+        "titleAr":"الأحقاف",
+    "englishNameTranslation": "The Dunes",
+
+        "index": 46,
+        "pages": 464,
+        "juz": [
+            {
+                "index": 26,
+                "verse": {
+                    "start": "1",
+                    "end": "35"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 38,
+        "title": "Muhammad",
+        "titleAr":"محمد",
+    "englishNameTranslation": "Muhammad",
+
+        "index": 47,
+        "pages": 468,
+        "juz": [
+            {
+                "index": 26,
+                "verse": {
+                    "start": "1",
+                    "end": "38"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 29,
+        "title": "Al-Fath",
+        "titleAr":"الفتح",
+    "englishNameTranslation": "The Victory",
+
+        "index": 48,
+        "pages": 472,
+        "juz": [
+            {
+                "index": 26,
+                "verse": {
+                    "start": "1",
+                    "end": "29"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 18,
+        "title": "Al-Hujurat",
+        "titleAr":"الحجرات",
+    "englishNameTranslation": "The Inner Apartments",
+
+        "index": 49,
+        "pages": 477,
+        "juz": [
+            {
+                "index": 26,
+                "verse": {
+                    "start": "1",
+                    "end": "18"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 45,
+        "title": "Qaf",
+        "titleAr":"ق",
+    "englishNameTranslation": "The letter Qaaf",
+
+        "index": 50,
+        "pages": 479,
+        "juz": [
+            {
+                "index": 26,
+                "verse": {
+                    "start": "1",
+                    "end": "45"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 60,
+        "title": "Az-Zariyat",
+        "titleAr":"الذاريات",
+    "englishNameTranslation": "The Winnowing Winds",
+
+        "index": 51,
+        "pages": 482,
+        "juz": [
+            {
+                "index": 26,
+                "verse": {
+                    "start": "1",
+                    "end": "30"
+                }
+            },
+            {
+                "index": 27,
+                "verse": {
+                    "start": "31",
+                    "end": "60"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 49,
+        "title": "At-Tur",
+        "titleAr":"الطور",
+    "englishNameTranslation": "The Mount",
+
+        "index": 52,
+        "pages": 485,
+        "juz": [
+            {
+                "index": 27,
+                "verse": {
+                    "start": "1",
+                    "end": "49"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 62,
+        "title": "An-Najm",
+        "titleAr":"النجم",
+    "englishNameTranslation": "The Star",
+
+        "index": 53,
+        "pages": 487,
+        "juz": [
+            {
+                "index": 27,
+                "verse": {
+                    "start": "1",
+                    "end": "62"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 55,
+        "title": "Al-Qamar",
+        "titleAr":"القمر",
+    "englishNameTranslation": "The Moon",
+
+        "index": 54,
+        "pages": 490,
+        "juz": [
+            {
+                "index": 27,
+                "verse": {
+                    "start": "1",
+                    "end": "55"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 78,
+        "title": "Ar-Rahman",
+        "titleAr":"الرحمن",
+    "englishNameTranslation": "The Beneficent",
+
+        "index": 55,
+        "pages": 493,
+        "juz": [
+            {
+                "index": 27,
+                "verse": {
+                    "start": "1",
+                    "end": "78"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 96,
+        "title": "Al-Waqia",
+        "titleAr":"الواقعة",
+    "englishNameTranslation": "The Inevitable",
+
+        "index": 56,
+        "pages": 496,
+        "juz": [
+            {
+                "index": 27,
+                "verse": {
+                    "start": "1",
+                    "end": "96"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 29,
+        "title": "Al-Hadid",
+        "titleAr":"الحديد",
+    "englishNameTranslation": "The Iron",
+
+        "index": 57,
+        "pages": 499,
+        "juz": [
+            {
+                "index": 27,
+                "verse": {
+                    "start": "1",
+                    "end": "29"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 22,
+        "title": "Al-Mujadilah",
+        "titleAr":"المجادلة",
+    "englishNameTranslation": "The Pleading Woman",
+
+        "index": 58,
+        "pages": 504,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "22"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 24,
+        "title": "Al-Hashr",
+        "titleAr":"الحشر",
+    "englishNameTranslation": "The Exile",
+
+        "index": 59,
+        "pages": 507,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "24"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 13,
+        "title": "Al-Mumtahinah",
+        "titleAr":"الممتحنة",
+    "englishNameTranslation": "She that is to be examined",
+
+        "index": 60,
+        "pages": 510,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "13"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 14,
+        "title": "As-Saff",
+        "titleAr":"الصف",
+    "englishNameTranslation": "The Ranks",
+
+        "index": 61,
+        "pages": 513,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "14"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 11,
+        "title": "Al-Jumu'ah",
+        "titleAr":"الجمعة",
+    "englishNameTranslation": "Friday",
+
+        "index": 62,
+        "pages": 515,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "11"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 11,
+        "title": "Al-Munafiqun",
+        "titleAr":"المنافقون",
+    "englishNameTranslation": "The Hypocrites",
+
+        "index": 63,
+        "pages": 516,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "11"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 18,
+        "title": "At-Taghabun",
+        "titleAr":"التغابن",
+    "englishNameTranslation": "Mutual Disillusion",
+
+        "index": 64,
+        "pages": 518,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "18"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 12,
+        "title": "At-Talaq",
+        "titleAr":"الطلاق",
+    "englishNameTranslation": "Divorce",
+
+        "index": 65,
+        "pages": 520,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "12"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 12,
+        "title": "At-Tahrim",
+        "titleAr":"التحريم",
+    "englishNameTranslation": "The Prohibition",
+
+        "index": 66,
+        "pages": 522,
+        "juz": [
+            {
+                "index": 28,
+                "verse": {
+                    "start": "1",
+                    "end": "12"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 30,
+        "title": "Al-Mulk",
+        "titleAr":"الملك",
+        "englishNameTranslation": "The Sovereignty",
+
+        "index": 67,
+        "pages": 524,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "30"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 52,
+        "title": "Al-Qalam",
+        "titleAr":"القلم",
+    "englishNameTranslation": "The Pen",
+
+        "index": 68,
+        "pages": 526,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "52"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 52,
+        "title": "Al-Haqqah",
+        "titleAr":"الحاقة",
+    "englishNameTranslation": "The Reality",
+
+        "index": 69,
+        "pages": 529,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "52"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 44,
+        "title": "Al-Ma'arij",
+        "titleAr":"المعارج",
+    "englishNameTranslation": "The Ascending Stairways",
+
+        "index": 70,
+        "pages": 531,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "44"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 28,
+        "title": "Nuh",
+        "titleAr":"نوح",
+    "englishNameTranslation": "Noah",
+
+        "index": 71,
+        "pages": 533,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "28"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 28,
+        "title": "Al-Jinn",
+        "titleAr":"الجن",
+    "englishNameTranslation": "The Jinn",
+
+        "index": 72,
+        "pages": 534,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "28"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 20,
+        "title": "Al-Muzzammil",
+        "titleAr":"المزمل",
+    "englishNameTranslation": "The Enshrouded One",
+
+        "index": 73,
+        "pages": 537,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "20"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 56,
+        "title": "Al-Muddaththir",
+        "titleAr":"المدثر",
+    "englishNameTranslation": "The Cloaked One",
+
+        "index": 74,
+        "pages": 538,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "56"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 40,
+        "title": "Al-Qiyamah",
+        "titleAr":"القيامة",
+    "englishNameTranslation": "The Resurrection",
+
+        "index": 75,
+        "pages": 540,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "40"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 31,
+        "title": "Al-Insan",
+        "titleAr":"الإنسان",
+    "englishNameTranslation": "Man",
+
+        "index": 76,
+        "pages": 542,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "31"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 50,
+        "title": "Al-Mursalat",
+        "titleAr":"المرسلات",
+    "englishNameTranslation": "The Emissaries",
+
+        "index": 77,
+        "pages": 544,
+        "juz": [
+            {
+                "index": 29,
+                "verse": {
+                    "start": "1",
+                    "end": "50"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 40,
+        "title": "An-Naba",
+        "titleAr":"النبأ",
+        "englishNameTranslation": "The Announcement",
+
+        "index": 78,
+        "pages": 545,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "40"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 46,
+        "title": "An-Naziat",
+        "titleAr":"النازعات",
+    "englishNameTranslation": "Those who drag forth",
+
+        "index": 79,
+        "pages": 547,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "46"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 42,
+        "title": "Abasa",
+        "titleAr":"عبس",
+    "englishNameTranslation": "He frowned",
+
+        "index": 80,
+        "pages": 548,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "42"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 29,
+        "title": "At-Takwir",
+        "titleAr":"التكوير",
+    "englishNameTranslation": "The Overthrowing",
+
+        "index": 81,
+        "pages": 550,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "29"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 19,
+        "title": "Al-Infitar",
+        "titleAr":"الإنفطار",
+    "englishNameTranslation": "The Cleaving",
+
+        "index": 82,
+        "pages": 551,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "19"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 36,
+        "title": "Al-Mutaffifin",
+        "titleAr":"المطففين",
+    "englishNameTranslation": "Defrauding",
+
+        "index": 83,
+        "pages": 552,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "36"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 25,
+        "title": "Al-Inshiqaq",
+        "titleAr":"الإنشقاق",
+    "englishNameTranslation": "The Splitting Open",
+
+        "index": 84,
+        "pages": 553,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "25"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 22,
+        "title": "Al-Buruj",
+        "titleAr":"البروج",
+    "englishNameTranslation": "The Constellations",
+
+        "index": 85,
+        "pages": 554,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "22"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 17,
+        "title": "At-Tariq",
+        "titleAr":"الطارق",
+    "englishNameTranslation": "The Morning Star",
+
+        "index": 86,
+        "pages": 555,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "17"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 19,
+        "title": "Al-Ala",
+        "titleAr":"الأعلى",
+    "englishNameTranslation": "The Most High",
+
+        "index": 87,
+        "pages": 556,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "19"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 26,
+        "title": "Al-Ghashiyah",
+        "titleAr":"الغاشية",
+    "englishNameTranslation": "The Overwhelming",
+
+        "index": 88,
+        "pages": 556,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "26"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 30,
+        "title": "Al-Fajr",
+        "titleAr":"الفجر",
+    "englishNameTranslation": "The Dawn",
+
+        "index": 89,
+        "pages": 557,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "30"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 20,
+        "title": "Al-Balad",
+        "titleAr":"البلد",
+    "englishNameTranslation": "The City",
+
+        "index": 90,
+        "pages": 559,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "20"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 15,
+        "title": "Ash-Shams",
+        "titleAr":"الشمس",
+    "englishNameTranslation": "The Sun",
+
+        "index": 91,
+        "pages": 559,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "15"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 21,
+        "title": "Al-Lail",
+        "titleAr":"الليل",
+    "englishNameTranslation": "The Night",
+
+        "index": 92,
+        "pages": 560,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "21"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 11,
+        "title": "Ad-Duha",
+        "titleAr":"الضحى",
+    "englishNameTranslation": "The Morning Hours",
+
+        "index": 93,
+        "pages": 561,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "11"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 8,
+        "title": "Ash-Sharh",
+        "titleAr":"الشرح",
+    "englishNameTranslation": "The Consolation",
+
+        "index": 94,
+        "pages": 561,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "8"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 8,
+        "title": "At-Tin",
+        "titleAr":"التين",
+    "englishNameTranslation": "The Fig",
+
+        "index": 95,
+        "pages": 562,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "8"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 19,
+        "title": "Al-Alaq",
+        "titleAr":"العلق",
+    "englishNameTranslation": "The Clot",
+
+        "index": 96,
+        "pages": 562,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "19"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 5,
+        "title": "Al-Qadr",
+        "titleAr":"القدر",
+    "englishNameTranslation": "The Power, Fate",
+
+        "index": 97,
+        "pages": 563,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "5"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 8,
+        "title": "Al-Bayinah",
+        "titleAr":"البينة",
+    "englishNameTranslation": "The Evidence",
+
+        "index": 98,
+        "pages": 563,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "8"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 8,
+        "title": "Az-Zalzalah",
+        "titleAr":"الزلزلة",
+    "englishNameTranslation": "The Earthquake",
+
+        "index": 99,
+        "pages": 564,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "8"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 11,
+        "title": "Al-Adiyat",
+        "titleAr":"العاديات",
+    "englishNameTranslation": "The Chargers",
+
+        "index": 100,
+        "pages": 564,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "11"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 11,
+        "title": "Al-Qariah",
+        "titleAr":"القارعة",
+    "englishNameTranslation": "The Calamity",
+
+        "index": 101,
+        "pages": 565,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "11"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 8,
+        "title": "Al-Takathur",
+        "titleAr":"التكاثر",
+    "englishNameTranslation": "Competition",
+
+        "index": 102,
+        "pages": 565,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "8"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 3,
+        "title": "Al-Asr",
+        "titleAr":"العصر",
+    "englishNameTranslation": "The Declining Day, Epoch",
+
+        "index": 103,
+        "pages": 566,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "3"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 9,
+        "title": "Al-Humazah",
+        "titleAr":"الهمزة",
+    "englishNameTranslation": "The Traducer",
+
+        "index": 104,
+        "pages": 566,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "9"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 5,
+        "title": "Al-Fil",
+        "titleAr":"الفيل",
+    "englishNameTranslation": "The Elephant",
+
+        "index": 105,
+        "pages": 566,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "5"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 4,
+        "title": "Quraish",
+        "titleAr":"قريش",
+    "englishNameTranslation": "Quraysh",
+
+        "index": 106,
+        "pages": 567,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "4"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 7,
+        "title": "Al-Ma'un",
+        "titleAr":"الماعون",
+    "englishNameTranslation": "Almsgiving",
+
+        "index": 107,
+        "pages": 567,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "7"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 3,
+        "title": "Al-Kauthar",
+        "titleAr":"الكوثر",
+        "englishNameTranslation": "Abundance",
+
+        "index": 108,
+        "pages": 567,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "3"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 6,
+        "title": "Al-Kafirun",
+        "titleAr":"الكافرون",
+    "englishNameTranslation": "The Disbelievers",
+
+        "index": 109,
+        "pages": 568,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "6"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Medina",
+        "type": "Medinan",
+        "count": 3,
+        "title": "An-Nasr",
+        "titleAr":"النصر",
+    "englishNameTranslation": "Divine Support",
+
+        "index": 110,
+        "pages": 568,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "3"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 5,
+        "title": "Al-Masad",
+        "titleAr":"المسد",
+    "englishNameTranslation": "The Palm Fibre",
+
+        "index": 111,
+        "pages": 568,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "5"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 4,
+        "title": "Al-Ikhlas",
+        "titleAr":"الإخلاص",
+    "englishNameTranslation": "Sincerity",
+
+        "index": 112,
+        "pages": 569,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "4"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 5,
+        "title": "Al-Falaq",
+        "titleAr":"الفلق",
+    "englishNameTranslation": "The Dawn",
+
+        "index": 113,
+        "pages": 569,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "5"
+                }
+            }
+        ]
+    },
+    {
+        "place": "Mecca",
+        "type": "Meccan",
+        "count": 6,
+        "title": "An-Nas",
+        "titleAr":"الناس",
+    "englishNameTranslation": "Mankind",
+
+        "index": 114,
+        "pages": 569,
+        "juz": [
+            {
+                "index": 30,
+                "verse": {
+                    "start": "1",
+                    "end": "6"
+                }
+            }
+        ]
+    }
+]
