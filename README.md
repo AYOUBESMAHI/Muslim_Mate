@@ -2,7 +2,7 @@
 
 Muslim Mate is an Islamic app built using Flutter, designed to assist you in various aspects of your daily Islamic practices and knowledge.
 
-![App Screenshot](Assets/Images/Default_muslim_app_icon_3_1eb7b4c5-ef4c-4635-974a-1df389df71f4_0.png)
+<img src="Assets/Images/Default_muslim_app_icon_3_1eb7b4c5-ef4c-4635-974a-1df389df71f4_0.png" alt="App Screenshot" width="200" />
 
 
 ## Features
@@ -73,5 +73,8 @@ In order to use Google Maps features, you'll need to obtain a Google Maps API ke
 3. Obtain your API key from the Credentials page.
 4. Create a `.env` file in the root of your project.
 5. Add your Google Maps API key to the `.env` file like this:
-   GOOGLE_MAPS_API_KEY=
-   api_key=
+
+
+
+          GOOGLE_MAPS_API_KEY=
+          api_key=
