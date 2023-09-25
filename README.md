@@ -2,6 +2,9 @@
 
 Muslim Mate is an Islamic app built using Flutter, designed to assist you in various aspects of your daily Islamic practices and knowledge.
 
+![App Screenshot](Assets/Images/Default_muslim_app_icon_3_1eb7b4c5-ef4c-4635-974a-1df389df71f4_0.png)
+
+
 ## Features
 
 1. **Prayer Times:**
