@@ -55,6 +55,8 @@ Muslim Mate is an Islamic app built using Flutter, designed to assist you in var
 - **hexcolor:** ^3.0.1
 
 ## Screenshots
+(loading...)
+
 <img src="ScreenShots/Record.gif" alt="Screenshots" height="500" />
 
 
